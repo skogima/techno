@@ -1,24 +1,4 @@
 # techno
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projeto simples desenvolvido durante o curso de Vue.js na Origamid, 
+porém modificado para utilização de components e gerenciador de estados (Vuex)
